@@ -40,6 +40,8 @@ You can access the services through Nginx at:
 ### ▶️ Build and Start
 
 ```bash
+git clone https://github.com/yash3028/DPZzero.git
+cd DPZzero
 docker-compose up --build
 
 
